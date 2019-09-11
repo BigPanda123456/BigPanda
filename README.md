@@ -1,2 +1,2 @@
 # BigPanda
-I am big panda
+I am a cool big panda
